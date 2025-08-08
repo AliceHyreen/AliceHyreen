@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**AliceHyreen/AliceHyreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### 👋 Hi there, I'm Alice Hyreen
 
 🔬 **Data Scientist** | 🤖 **Automation Engineer** | 🌍 **Public Sector Innovator**
@@ -27,6 +11,7 @@ I'm passionate about using AI and automation to solve real-world challenges in h
 - Intelligent Automation in Higher Education 🎓
 - Fraud Detection in Public Finance 💰
 - No-code Tools for Small Businesses 🛠️
+- AI-Driven Tax Compliance Systems 🧾
 
 ---
 
@@ -39,11 +24,21 @@ I'm passionate about using AI and automation to solve real-world challenges in h
 ---
 
 ### 📌 Featured Projects
+
 - **[Retention-Modeling](https://github.com/AliceHyreen/Retention-Modeling)**  
   ML models for predicting student dropout in minority healthcare pipelines.
 
 - **[Healthcare-AI-Model](https://github.com/AliceHyreen/Healthcare-AI-Model)**  
   NLP-based patient prioritization tool for underserved health centers.
+
+- **[TaxFraud-Detection](https://github.com/AliceHyreen/TaxFraud-Detection)**  
+  AI system that flagged over $12M in suspicious tax activity using classification models.
+
+- **[VAT-Audit-Automation](https://github.com/AliceHyreen/VAT-Audit-Automation)**  
+  RPA + Python workflow that automates VAT audit reviews across 80,000+ monthly filings.
+
+- **[PublicRevenueDashboard](https://github.com/AliceHyreen/PublicRevenueDashboard)**  
+  Power BI dashboard visualizing real-time tax collection and audit performance.
 
 - **[MAKA Royals Automation Tools](https://maka-royals.com)**  
   No-code AI tools helping 1,000+ freelancers automate operations.
